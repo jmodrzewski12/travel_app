@@ -1,31 +1,31 @@
-Dublin,Dublin,Ireland,53.333333;-6.25
-Belfast,Belfast City,Great Britain,54.6;-5.916667
-Edinburgh,Edinburgh,Great Britain,55.95;-3.198889
-Aberdeen,Aberdeen City,Great Britain,57.147222;-2.095278
-London,London,Great Britain,51.5;-0.116667
-Cardiff,Cardiff,Great Britain,51.483333;-3.183333
-Reykjavik,Höfuðborgarsvæðið,Iceland,64.133333;-21.933333
-Oslo,Olso,Norway,59.912997;10.737997
-Bergen,Vestland,Norway,60.383333;5.333333
-Tromso,Troms og Finnmark,Norway,69.6489;18.9551
-Amsterdam,Noord-Holland,The Netherlands,52.366667;4.9
-Innsbruck,Tirol,Austria,47.266667;11.4
-Salzburg,Salzburg,Austria,47.8;13.033333
-Prague,Praha,Cech Republic,50.087778;14.421111
-Cracow,Małopolskie,Poland,50.061389;19.938333
-Gdansk,Pomorskie,Poland,54.3475;18.645278
-Olsztyn,Warmińsko-mazurskie,Poland,53.773056;20.476111
-Split,Splitsko-dalmatinska županija,Croatia,43.513889;16.455833
-Dubrovnik,Dubrovacko-neretvanska županija,Croatia,42.641289;18.107897
-Corfu,Ionía Nísia,Greece,39.666667;19.75
-Thessaloniki,Kentrikí Makedonía,Greece,40.633333;22.95
-Athens,Attikí,Greece,38;23.716667
-Naples,Napoli,Italy,26.153056;-81.798611
-Trento,Trento,Italy,46.066667;11.116667
-Venice,Venezia,Italy,45.433333;12.316667
-Bari,Bari,Italy,41.126111;16.869167
-Lyon,Métropole de Lyon,France,45.75;4.833333
-Paris,Paris,France,48.866667;2.35
-Nantes,Loire-Atlantique,France,47.216667;-1.55
-Barcelona,Barcelona,Spain,41.387917;2.169919
-Istanbul,Istanbul,Turkey,41;29
+Dublin,Dublin,Ireland,53.333333,-6.25
+Belfast,Belfast City,Great Britain,54.6,-5.916667
+Edinburgh,Edinburgh,Great Britain,55.95,-3.198889
+Aberdeen,Aberdeen City,Great Britain,57.147222,-2.095278
+London,London,Great Britain,51.5,-0.116667
+Cardiff,Cardiff,Great Britain,51.483333,-3.183333
+Reykjavik,Höfuðborgarsvæðið,Iceland,64.133333,-21.933333
+Oslo,Olso,Norway,59.912997,10.737997
+Bergen,Vestland,Norway,60.383333,5.333333
+Tromso,Troms og Finnmark,Norway,69.6489,18.9551
+Amsterdam,Noord-Holland,The Netherlands,52.366667,4.9
+Innsbruck,Tirol,Austria,47.266667,11.4
+Salzburg,Salzburg,Austria,47.8,13.033333
+Prague,Praha,Cech Republic,50.087778,14.421111
+Cracow,Małopolskie,Poland,50.061389,19.938333
+Gdansk,Pomorskie,Poland,54.3475,18.645278
+Olsztyn,Warmińsko-mazurskie,Poland,53.773056,20.476111
+Split,Splitsko-dalmatinska županija,Croatia,43.513889,16.455833
+Dubrovnik,Dubrovacko-neretvanska županija,Croatia,42.641289,18.107897
+Corfu,Ionía Nísia,Greece,39.666667,19.75
+Thessaloniki,Kentrikí Makedonía,Greece,40.633333,22.95
+Athens,Attikí,Greece,38,23.716667
+Naples,Napoli,Italy,26.153056,-81.798611
+Trento,Trento,Italy,46.066667,11.116667
+Venice,Venezia,Italy,45.433333,12.316667
+Bari,Bari,Italy,41.126111,16.869167
+Lyon,Métropole de Lyon,France,45.75,4.833333
+Paris,Paris,France,48.866667,2.35
+Nantes,Loire-Atlantique,France,47.216667,-1.55
+Barcelona,Barcelona,Spain,41.387917,2.169919
+Istanbul,Istanbul,Turkey,41,29
