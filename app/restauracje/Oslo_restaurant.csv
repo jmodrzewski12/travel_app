@@ -1,4 +1,4 @@
-@lat,@lon,amenity,cuisine,name,opening_hours,diet:vegetarian,diet:vegan
+
 59.9499642,10.7664274,restaurant,pizza,Peppes Pizza Nydalen,,,
 59.9113680,10.7494510,restaurant,pizza,Peppes Pizza,Mo 11:00-22:30; Tu-Sa 11:00-23:30; Su 13:00-22:30,yes,yes
 59.9138400,10.7564280,restaurant,turkish,Café con Bar,"Mo-Sa 10:00-01:00, Su 12:00-24:00",,
