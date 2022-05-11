@@ -1,0 +1,2 @@
+LOAD CSV FROM 'D:\GI\6semestr\projektowanie\app\countries.csv' AS line 
+CREATE (:Country {name: line[0],  iso_code: line[1]})
